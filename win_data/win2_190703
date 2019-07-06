@@ -1,0 +1,75 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 04:55:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 04:55:56 10.148.0.4 GET / - 80 - 67.43.243.172 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 418
+2019-07-03 04:55:56 10.148.0.4 GET /iisstart.png - 80 - 67.43.243.172 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://34.87.69.183/ 200 0 0 886
+2019-07-03 04:55:57 10.148.0.4 GET /favicon.ico - 80 - 67.43.243.172 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://34.87.69.183/ 404 0 2 224
+2019-07-03 04:58:28 10.148.0.4 GET / - 80 - 67.43.244.176 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_5)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.1.1+Safari/605.1.15 - 200 0 0 223
+2019-07-03 04:58:29 10.148.0.4 GET /iisstart.png - 80 - 67.43.244.176 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_5)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.1.1+Safari/605.1.15 http://34.87.69.183/ 200 0 0 1430
+2019-07-03 04:58:29 10.148.0.4 GET /favicon.ico - 80 - 67.43.244.176 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_5)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.1.1+Safari/605.1.15 http://34.87.69.183/ 404 0 2 225
+2019-07-03 05:03:45 10.148.0.4 GET / - 80 - 67.43.244.176 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_5)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.1.1+Safari/605.1.15 - 200 0 0 404
+2019-07-03 05:03:47 10.148.0.4 GET /iisstart.png - 80 - 67.43.244.176 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_5)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.1.1+Safari/605.1.15 http://34.87.69.183/ 200 0 0 1245
+2019-07-03 05:17:45 10.148.0.4 GET / - 80 - 212.200.73.34 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_6)+AppleWebKit/601.7.7+(KHTML,+like+Gecko)+Version/9.1.2+Safari/601.7.7 - 200 0 0 325
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 07:51:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 07:51:56 10.148.0.4 GET / - 80 - 103.28.226.78 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 141
+2019-07-03 08:05:14 10.148.0.4 GET / - 80 - 182.160.115.142 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_6)+AppleWebKit/601.7.7+(KHTML,+like+Gecko)+Version/9.1.2+Safari/601.7.7 - 200 0 0 53
+2019-07-03 08:05:29 10.148.0.4 GET / - 80 - 103.53.108.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 156
+2019-07-03 08:18:29 10.148.0.4 GET / - 80 - 37.6.90.178 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 378
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 11:16:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 11:16:41 10.148.0.4 GET / - 80 - 109.94.119.176 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_6)+AppleWebKit/601.7.7+(KHTML,+like+Gecko)+Version/9.1.2+Safari/601.7.7 - 200 0 0 424
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 11:45:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 11:45:30 10.148.0.4 GET / - 80 - 109.94.120.214 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 411
+2019-07-03 11:53:53 10.148.0.4 GET / - 80 - 54.153.24.214 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36 - 200 0 0 176
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 12:49:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 12:49:03 10.148.0.4 GET / - 80 - 85.101.128.187 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 445
+2019-07-03 13:01:55 10.148.0.4 GET / - 80 - 85.108.82.210 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 373
+2019-07-03 13:03:19 10.148.0.4 GET / - 80 - 72.19.153.3 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_6)+AppleWebKit/601.7.7+(KHTML,+like+Gecko)+Version/9.1.2+Safari/601.7.7 - 200 0 0 195
+2019-07-03 13:16:38 10.148.0.4 GET / - 80 - 31.43.110.64 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 318
+2019-07-03 13:22:43 10.148.0.4 GET / - 80 - 103.199.98.246 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 200 0 0 79
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 16:50:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 16:50:57 10.148.0.4 GET / - 80 - 103.138.4.226 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 206
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 18:20:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 18:20:41 10.148.0.4 GET / - 80 - 142.93.219.124 masscan/1.0+(https://github.com/robertdavidgraham/masscan) - 200 0 1236 13171
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 19:17:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 19:17:46 10.148.0.4 GET / - 80 - 209.17.96.170 Mozilla/5.0+(compatible;+Nimbostratus-Bot/v1.3.2;+http://cloudsystemnetworks.com) - 200 0 0 605
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 20:19:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 20:19:10 10.148.0.4 GET /mysql/admin/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1671
+2019-07-03 20:19:13 10.148.0.4 GET /mysql/dbadmin/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1602
+2019-07-03 20:19:16 10.148.0.4 GET /mysql/sqlmanager/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1682
+2019-07-03 20:19:19 10.148.0.4 GET /mysql/mysqlmanager/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1559
+2019-07-03 20:19:22 10.148.0.4 GET /phpmyadmin/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1286
+2019-07-03 20:19:24 10.148.0.4 GET /phpMyadmin/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1124
+2019-07-03 20:19:27 10.148.0.4 GET /phpMyAdmin/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1045
+2019-07-03 20:19:29 10.148.0.4 GET /phpmyAdmin/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1368
+2019-07-03 20:19:32 10.148.0.4 GET /phpmyadmin2/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 1611
+2019-07-03 20:19:38 10.148.0.4 GET /phpmyadmin3/index.php lang=en 80 - 77.58.102.77 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 - 404 0 2 4337
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-07-03 22:16:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-03 22:16:36 10.148.0.4 HEAD /robots.txt - 80 - 77.247.110.219 - - 404 0 2 398
