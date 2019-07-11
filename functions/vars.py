@@ -11,7 +11,7 @@
 #num_days = 20
 
 # day to split linux logs to add 1 for indexing
-stop_day = 6
+stop_day = 11
 
 ##### Directory Variables (Temp Directories are deleted on clean run)
 
@@ -20,6 +20,10 @@ stop_day = 6
 
 # Temp directory created to store tempoarary logs
 created_logs_dir = 'created_logs'
+
+stats_ip_count = 'stats'
+
+stats_location = 'location'
 
 # Directory to store windows log files
 win_log_location='win_data/'

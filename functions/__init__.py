@@ -21,8 +21,9 @@ import numpy as np
 import pandas as pd
 from ipwhois import IPWhois
 from .vars import *
+from .housekeeping import *
 from .io_ops import *
 from .locals import *
 from .log_ops import *
-from .housekeeping import *
+from .ip_stats import *
 from .win_ip_count import *

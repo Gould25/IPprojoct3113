@@ -1,0 +1,6 @@
+scp -v statsproject3113@34.87.69.183:C:/\inetpub/\logs/\LogFiles/\W3SVC1/\u_ex190706.log ./win_2_190706.log
+
+scp jg7f9@35.240.235.69:/var/log/apache2/access.log.2.gz .
+scp jg7f9@35.240.235.69:/var/log/apache2/access.log.1 .
+
+scp jg7f9@35.240.182.118:/var/log/nginx/access.log.2.gz .

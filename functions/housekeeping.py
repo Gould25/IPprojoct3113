@@ -84,3 +84,17 @@ def remove_data(dir):
             logging.error("From remove_data()" + e)
     else:
         logging.info('There is nothing to clean up')
+
+def copy_files(src, dest):
+            try:
+                shutil.copy(src, dest)
+
+            except Exception as e:
+                logging.error("Copy_files()" + str(e))
+
+def copy_csv(src_dir, dest_dir, suffix):
+    for file in os.listdir(src_dir):
+        if file.endswith(suffix):
+            sts = os.path.join(src_dir,file)
+            dts = os.path.join(dest_dir, file)
+            copy_files(sts, dts)

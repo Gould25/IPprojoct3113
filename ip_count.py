@@ -15,9 +15,9 @@ def main():
 
     start = time.perf_counter()
 
-    dirs = [created_logs_dir]
+    dirs = [created_logs_dir, stats_ip_count, stats_location]
 
-    clean_dirs = [created_logs_dir]
+    clean_dirs = [created_logs_dir, stats_ip_count, stats_location]
 
     parser = argparse.ArgumentParser()
 
@@ -46,11 +46,13 @@ def main():
         else:
             logging.basicConfig(level=logging.DEBUG)
 
-        set_up_env(dirs)
+        #set_up_env(dirs)
 
-        parse_lin_logs()
+        #parse_lin_logs()
 
-        parse_win_logs()
+        #parse_win_logs()
+
+        figure_stats()
 
     elif args.type == 'clean':
         logging.basicConfig(level=logging.DEBUG)
