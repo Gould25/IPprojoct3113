@@ -11,7 +11,7 @@
 #num_days = 20
 
 # day to split linux logs to add 1 for indexing
-stop_day = 11
+stop_day = 10
 
 ##### Directory Variables (Temp Directories are deleted on clean run)
 

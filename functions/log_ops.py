@@ -41,7 +41,7 @@ def split_by_date(df, log):
 
         file_ops(df_by_date, server)
 
-        find_location(server)
+        #find_location(server)
 
 
 

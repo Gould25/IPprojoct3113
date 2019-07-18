@@ -24,7 +24,7 @@ def parse_win_logs():
 
         file_ops(clean_log, winlog)
 
-        find_location(winlog)
+        #find_location(winlog)
 
 
 def clean_win_logs(log, csv):

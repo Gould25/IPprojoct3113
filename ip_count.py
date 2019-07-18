@@ -46,11 +46,11 @@ def main():
         else:
             logging.basicConfig(level=logging.DEBUG)
 
-        #set_up_env(dirs)
+        set_up_env(dirs)
 
-        #parse_lin_logs()
+        parse_lin_logs()
 
-        #parse_win_logs()
+        parse_win_logs()
 
         figure_stats()
 
